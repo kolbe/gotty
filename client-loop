@@ -33,7 +33,7 @@ msg="
   ${red}           ▝▀▀▀           ${reset}
 
 
-Plese enter your TiDB password to log in to a client shell.
+Please enter your TiDB password to log in to a client shell.
 
 "
 

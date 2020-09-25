@@ -1,6 +1,6 @@
 FROM golang AS gotty
 WORKDIR /root
-RUN git clone https://github.com/kolbe/gotty
+RUN git clone https://github.com/LinuxGit/gotty
 WORKDIR gotty
 RUN go build -a -o /
 
